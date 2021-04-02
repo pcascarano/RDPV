@@ -10,4 +10,4 @@ https://arxiv.org/pdf/2011.09855.pdf
 
 
 
-<img src="figs/fig1.PNG" width="800px"/>
+<img src="figs/fig1.PNG" width="600px"/>
